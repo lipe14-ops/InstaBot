@@ -27,7 +27,6 @@
  <a href="#features">features</a> •
  <a href="#prerequisites">prerequisites</a> •
  <a href="#tools">tools</a> •
- <a href="#demonstration">demonstration</a> •
  <a href="#author">author</a>
 </p></br>
 
@@ -45,17 +44,6 @@
 * language used: [python](https://www.python.org/)
 * module [instabot](https://github.com/ohld/igbot) was used.</br>
 	To install: `pip install instabot`
-  
-### Demonstration:
-when you run the script, you will see this message:
-
-![](https://user-images.githubusercontent.com/78698099/125864790-8ed00759-a05e-4c47-939f-d9d46cf9d0fe.png)
-
-type your account name and the password.
-
-![](https://user-images.githubusercontent.com/78698099/125864922-86d16b61-8390-4b3b-9ad9-8df5dac4c8d7.png)
-
-set image configurations as name file, captions and post time. Make sure that theres a image in the same folder than de script.
 
 ### **Author:**
 <img width='100' height='100' style="border-radius:50%; padding:15px" src="https://avatars.githubusercontent.com/u/78698099?v=4" /></br>
