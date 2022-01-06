@@ -1,6 +1,6 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" height="100" />
 
-# IstaBot
+# InstaBot
 
 ### Goals:
 - easy to use.
